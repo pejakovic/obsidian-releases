@@ -14229,6 +14229,12 @@
    "author": "Sai Prashanth Pulisetti",
    "description": "A plugin to audit passwords for strength and breaches, and generate secure passwords.",
    "repo": "prashanthpulisetti/password-audit"
+  },
+  {
+    "id": "convert-katex-to-latex",
+    "name": "KaTeX to LaTeX",
+    "author": "Darko Pejakovic",
+    "description": "Converts KaTex format to LaTex format",
+    "repo": "pejakovic/obsidian-convert-katex-to-latex"
   }
-
 ]
