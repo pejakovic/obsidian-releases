@@ -14236,6 +14236,12 @@
     "author": "Christian Humbert",
     "description": "Create and managing text and code snippets.",
     "repo": "Chrstn67/obsidian-plugin-obsnippets"
+  },
+  {
+    "id": "convert-katex-to-latex",
+    "name": "KaTeX to LaTeX",
+    "author": "Darko Pejakovic",
+    "description": "Converts KaTex format to LaTex format",
+    "repo": "pejakovic/obsidian-convert-katex-to-latex"
   }
-
 ]
