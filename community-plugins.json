@@ -14231,10 +14231,10 @@
    "repo": "prashanthpulisetti/password-audit"
   },
   {
-    "id": "convert-katex-to-latex",
-    "name": "KaTeX to LaTeX",
+    "id": "convert-katex-to-mathjax",
+    "name": "KaTeX to MathJax",
     "author": "Darko Pejakovic",
-    "description": "Converts KaTex format to LaTex format",
-    "repo": "pejakovic/obsidian-convert-katex-to-latex"
+    "description": "Converts KaTeX format to MathJax format",
+    "repo": "pejakovic/obsidian-convert-katex-to-mathjax"
   }
 ]
